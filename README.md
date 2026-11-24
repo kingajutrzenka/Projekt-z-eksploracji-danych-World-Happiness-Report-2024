@@ -1,2 +1,1 @@
-# World-happiness-report-2024.csv
-Uni project
+Projekt wykonany na przedmiot wprowadzenie do eksploracji danych badający jak silnie poziom szczęścia w krajach świata wiąże się z zamożnością, wsparciem społecznym, zdrowiem, wolnością wyboru, hojnością i postrzeganiem korupcji.
